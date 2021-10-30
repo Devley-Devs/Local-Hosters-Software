@@ -1,6 +1,6 @@
 # Minecraft Server Controller [Local Hosters]
 
-| [Download](https://github.com/) | [FAQ](https://github.com/Minecraft-Server-Controller/Local-Hosters-Software/blob/main/FAQ.md) | [Tutorial](https://www.youtube.com/channel/UCZtd2QzjWBmblc2lMFt_NHQ/featured) | [Bot Link](https://discord.com/oauth2/authorize?client_id=850756148536672277&permissions=3490184304&scope=applications.commands%20bot) |
+| [Download](https://github.com/Minecraft-Server-Controller/Local-Hosters-Software/releases/tag/Master) | [FAQ](https://github.com/Minecraft-Server-Controller/Local-Hosters-Software/blob/main/FAQ.md) | [Tutorial](https://www.youtube.com/channel/UCZtd2QzjWBmblc2lMFt_NHQ/featured) | [Bot Link](https://discord.com/oauth2/authorize?client_id=850756148536672277&permissions=3490184304&scope=applications.commands%20bot) |
 | :---: | :---: | :---: | :---: |
 
 </div>
