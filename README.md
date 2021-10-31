@@ -19,6 +19,19 @@
 
 ![Build](https://s12.directupload.net/images/200907/5j3544ai.png)
 
-> Version - `Stable V1.0.0`
+> Version - `Stable V1.2.0`
 
 >  __You dont need to install any Third Party Library or Software to use this Software__
+
+### Usage
+| Commands | Info |
+| :---: | :---: |
+| m!start | To Start the Server |
+| m!stop | To Stop the Server |
+| m!restart | To ReStart the Server |
+| m!kill | To Kill the Server |
+| m!console | To Get Console Logs |
+| m!status | To Get Status Info |
+| m!setup | To Change Configs |
+| m!version | To View Configs |
+| m!quit | To Stop all Process |
