@@ -19,7 +19,7 @@
 
 ![Build](https://s12.directupload.net/images/200907/5j3544ai.png)
 
-> Version - `Stable V1.4.0`
+> Version - `Stable V1.5.0`
 
 >  __You dont need to install any Third Party Library or Software to use this Software__
 
