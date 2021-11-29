@@ -38,5 +38,7 @@
 
 ### ScreenShots
 
-![image](https://user-images.githubusercontent.com/64340067/140615259-e4f58869-3266-433a-a13e-8bbc39294c04.png)
+| GUI | CLI |
+| :---: | :---: |
+| ![GUI](https://user-images.githubusercontent.com/64340067/143799133-1d24f07d-c0e4-4058-b0b1-9fc9e5cf2354.png) | ![CLI](https://user-images.githubusercontent.com/64340067/140615259-e4f58869-3266-433a-a13e-8bbc39294c04.png) | 
 
