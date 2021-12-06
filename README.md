@@ -19,7 +19,8 @@
 
 ![Build](https://s12.directupload.net/images/200907/5j3544ai.png)
 
-> Version - `Stable V1.5.0`
+> GUI Version - `Stable V1.7.0`
+> CLI Version - `Stable V1.5.0`
 
 >  __You dont need to install any Third Party Library or Software to use this Software__
 
@@ -40,6 +41,6 @@
 
 | ScreenShots |
 | :---: |
-| ![GUI](https://user-images.githubusercontent.com/64340067/143799133-1d24f07d-c0e4-4058-b0b1-9fc9e5cf2354.png) |
+| ![GUI](https://user-images.githubusercontent.com/64340067/144839434-a2dac14e-8d9f-456d-ad74-67a0edfa175d.png) |
 | ![CLI](https://user-images.githubusercontent.com/64340067/140615259-e4f58869-3266-433a-a13e-8bbc39294c04.png) | 
 
