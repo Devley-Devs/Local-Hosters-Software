@@ -41,6 +41,8 @@
 
 | ScreenShots |
 | :---: |
+| MSC-GUI |
 | ![GUI](https://user-images.githubusercontent.com/64340067/144839434-a2dac14e-8d9f-456d-ad74-67a0edfa175d.png) |
+| MSC-CLI |
 | ![CLI](https://user-images.githubusercontent.com/64340067/140615259-e4f58869-3266-433a-a13e-8bbc39294c04.png) | 
 
