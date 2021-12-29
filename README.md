@@ -19,7 +19,7 @@
 
 ![Build](https://s12.directupload.net/images/200907/5j3544ai.png)
 
-> GUI Version - `GUI V1.7.0`
+> GUI Version - `GUI V1.8.0`
 > CLI Version - `CLI V1.8.0`
 
 >  __You dont need to install any Third Party Library or Software to use this Software__
@@ -42,7 +42,7 @@
 | ScreenShots |
 | :---: |
 | MSC-GUI |
-| ![GUI](https://user-images.githubusercontent.com/64340067/144839434-a2dac14e-8d9f-456d-ad74-67a0edfa175d.png) |
+| ![GUI](https://user-images.githubusercontent.com/64340067/147624573-5569c592-b668-4561-be68-827ac02bad7c.png) |
 | MSC-CLI |
 | ![CLI](https://user-images.githubusercontent.com/64340067/147323425-e7ef3e58-c3fb-4b72-94b8-1605e5d5b496.png) | 
 
