@@ -19,7 +19,7 @@
 
 ![Build](https://s12.directupload.net/images/200907/5j3544ai.png)
 
-> GUI Version - `GUI V1.8.0`
+> GUI Version - `GUI V2.0` Coming soon...
 > CLI Version - `CLI V1.9.0`
 
 >  __You dont need to install any Third Party Library or Software to use this Software__
